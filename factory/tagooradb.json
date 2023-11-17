@@ -1,0 +1,9 @@
+{
+	"name": "tagooradb",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6d99c26b-e023-4f1f-8fc2-75585be3170a",
+		"tenantId": "32abc02d-52f2-4b85-9d4d-b18fc25d6bf3"
+	}
+}
